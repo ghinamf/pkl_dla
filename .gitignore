@@ -29,3 +29,5 @@ app/*.pkl
 .env
 config.py
 
+# Dataset
+LEVEL_KEAHLIAN.csv
