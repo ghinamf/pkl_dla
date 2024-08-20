@@ -1,0 +1,31 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Docker
+*.pid
+*.log
+*.lock
+tmp/
+
+# Editor specific
+.vscode/
+.idea/
+.mypy_cache/
+.pytest_cache/
+
+# System specific
+.DS_Store
+Thumbs.db
+
+# Pickle files and models
+app/*.pkl
+
+# Configs and credentials
+.env
+config.py
+
